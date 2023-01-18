@@ -1,0 +1,4 @@
+project: go-cid
+target: go-cid-cid-fuzz
+cmds:
+  - cmd: ./typecasting-fuzz.libfuzzer
